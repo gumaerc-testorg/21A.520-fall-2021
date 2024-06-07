@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/21a-520-magic-science-and-religion-fall-2021/mit21a_520f21_paper4_example1.pdf
+file_size: 100747
 file_type: application/pdf
 image_metadata:
   caption: ''
