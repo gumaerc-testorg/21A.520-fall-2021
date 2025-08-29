@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/magic-science-and-religion/mit21a_520f21_paper4_example2.pdf
+file: /ol-ocw-studio-app/courses/21a-520-magic-science-and-religion-fall-2021/mit21a_520f21_paper4_example2.pdf
 file_size: 114179
 file_type: application/pdf
 image_metadata:
