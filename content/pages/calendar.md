@@ -65,7 +65,7 @@ Is magic a form of technology? (1)
 
 Is magic a form of technology? (2)
 
-*In class: Divination workshop with* [*Peter Bebergal*](https://mitpress.mit.edu/author/peter-bebergal-35221/)
+*In class: Divination workshop with* {{% resource_link "87a8cdd8-09fc-40af-9b8c-589437a29d52" "*Peter Bebergal*" %}}
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -159,7 +159,7 @@ How do magicians learn to deceive? (2)
 
 Can you believe your eyes!?
 
-*In class: Performance and talk by magician* [*Joel Acevedo*](https://www.joel-magic.com/)
+*In class: Performance and talk by magician* {{% resource_link "267c4756-f2cd-498d-8972-ae227872cedc" "*Joel Acevedo*" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 Paper 4 due: Magic Performance
@@ -203,7 +203,7 @@ Can Spirituality and Science be reconciled? (1)
 
 Can Spirituality and Science be reconciled? (2)
 
-*In class: Meet at* [*MIT Chapel*](https://studentlife.mit.edu/cac/event-services-spaces/event-spaces/mit-chapel) *for conversation with Institute chaplains*
+*In class: Meet at* {{% resource_link "6749ac06-19c1-49aa-b348-28f58c252d66" "*MIT Chapel*" %}} *for conversation with Institute chaplains*
 
 {{< tdclose >}}{{< tdopen >}}
  
